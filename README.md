@@ -7,7 +7,7 @@
 This project aims to put into practice JavaScript, HTML and CSS, where a timer was created based on the Pomodoro technique, it was developed in the Rocketseat Explorer program class.
 
 
-[🔗 Click here to access](https://gusfngg.github.io/find-out-the-number-rocketseat/)
+[🔗 Click here to access](https://gusfngg.github.io/focustimer-rocketseat/)
 
 ## 🔧 Tech
 
